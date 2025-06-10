@@ -1,3 +1,4 @@
+# StudySYNC 
 # FY25 Candidates Database Web Application
 
 A Flask-based web application for managing, searching, and analyzing student candidate data for the FY25 batch. The app integrates a machine learning model to predict student mindsets and provides skill recommendations and booster tips for student development.
